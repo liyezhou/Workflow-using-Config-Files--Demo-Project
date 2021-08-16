@@ -1,0 +1,9 @@
+index,maxHeight,minWeight,bananaProcMethod
+1,190,60,Conservative
+2,200,60,Conservative
+3,190,70,Conservative
+4,200,70,Conservative
+5,190,60,AutoClassification
+6,200,60,AutoClassification
+7,190,70,AutoClassification
+8,200,70,AutoClassification
